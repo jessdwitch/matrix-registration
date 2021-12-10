@@ -50,7 +50,7 @@ setuptools.setup(
         "Flask-SQLAlchemy~=2.4.1",
         "flask-cors~=3.0.7",
         "flask-httpauth>=3.3.0",
-        "flask-limiter>=1.1.0",
+        "flask-limiter>=1.1.0,<2.0.0",
         "python-dateutil~=2.8.1",
         "PyYAML~=5.1",
         "requests>=2.22",
